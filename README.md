@@ -4,7 +4,7 @@ A dataset of Customer Profile going into a Mall
 Method Used: KMeans, PreProcessing, Clustered Using WCSS
 
 Summary
-WCSS As you can see in WCSS the Preferred Cluster is 3 so I clustered my Datasets into 3
+WCSS
 <img width="954" height="529" alt="image" src="https://github.com/user-attachments/assets/95f16c96-c6ca-4753-bda0-d6e4944b815b" />
 
 Spending score and Annual income
@@ -38,7 +38,12 @@ There is a Concentration in the middle part by the Violet Cluster which we can c
 Green Cluster are the ones who are The Rich People but doesn't want to spend here in our Mall. Red Cluster are our Loyal Customers they are rich and spend a lot of money in our mall.
 Conclusion For Spending Score and Annual Income
 We need to identify why does the Green Cluster doesn't want to spend money on our mall and we also need to maximize the Violet Cluster which is the average spenders by giving them promotions and maintain our loyal customer base by giving them Prestige promotions due to their spending to the mall.
+
+
+
 Conclusion
+
+
 Thank you for reading my First Repository in Github! I'm still new to Data Science Industry so I would like to apologize if there are any mistakes that I have made in my coding in notebook. I have recently completed my Data Science Training in Udemy and I really want to apply my knowledge with my Marketing Degree and Data Science in order to have good Insights and expand my career to other Business Cases.
 
 
