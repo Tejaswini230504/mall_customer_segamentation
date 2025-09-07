@@ -16,7 +16,6 @@ Insight
 
 As you can see in the Red Cluster which we can name them the Middle age to Elderly people.
 The reason why they mostly fall in the average spending score, it's because middle age to Elderly people tend to go to the Malls to socialize with their friends or just see people.
-Reference: White, Rob & Toohey, J.-A & Asquith, Nicole. (2013). Seniors in shopping centres. Journal of Sociology. 51. 10.1177/1440783313507494.
 
 Violet Cluster shows a very low spending score and their age ranges from young adults to middle age. We can deduce that this cluster are the ones who doesn't like to go to this mall.
 
@@ -24,6 +23,7 @@ Green Cluster shows a very high spending score and has the same age range of the
 Conclusion For Spending Score and Age
 We should analyze why does the violet cluster doesn't want to go into our mall, maybe they don't want the environment of the mall?, they're few shops in the mall?, few relevant shops in the mall?, and etc. So that we can still make the Violet Cluster profitable in our Mall
 Second we should take care our Green Cluster, because they're the ones who are bringing profits to our Mall and should offer more Promotions to them.
+
 Lastly the next potential customers can be the Red Cluster, because most of them fall into the average spending score and we can still increase it by making them spend more in social stuffs like bringing in a bingo center for them.
 
 Spending Score and Annual Income
@@ -32,6 +32,8 @@ Spending Score and Annual Income
 
 
 Insight
+
+
 There is a Concentration in the middle part by the Violet Cluster which we can call them the Average Spenders and this average spenders are almost the majority of our customers.
 Green Cluster are the ones who are The Rich People but doesn't want to spend here in our Mall. Red Cluster are our Loyal Customers they are rich and spend a lot of money in our mall.
 Conclusion For Spending Score and Annual Income
