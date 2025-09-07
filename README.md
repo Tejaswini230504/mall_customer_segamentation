@@ -1,9 +1,10 @@
 Mall-Customer-Segmentation
+
 A dataset of Customer Profile going into a Mall
 Method Used: KMeans, PreProcessing, Clustered Using WCSS
+
 Summary
-WCSS
-As you can see in WCSS the Preferred Cluster is 3 so I clustered my Datasets into 3
+WCSS As you can see in WCSS the Preferred Cluster is 3 so I clustered my Datasets into 3
 <img width="954" height="529" alt="image" src="https://github.com/user-attachments/assets/95f16c96-c6ca-4753-bda0-d6e4944b815b" />
 
 Spending score and Annual income
@@ -12,6 +13,7 @@ Spending score and Annual income
 
 
 Insight
+
 As you can see in the Red Cluster which we can name them the Middle age to Elderly people.
 The reason why they mostly fall in the average spending score, it's because middle age to Elderly people tend to go to the Malls to socialize with their friends or just see people.
 Reference: White, Rob & Toohey, J.-A & Asquith, Nicole. (2013). Seniors in shopping centres. Journal of Sociology. 51. 10.1177/1440783313507494.
